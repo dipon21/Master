@@ -1,2 +1,3 @@
 this is beautyful story
 line1
+line2
